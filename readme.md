@@ -2,4 +2,4 @@
 
 # JavaScript30
 
-- Day 1: [JavaScript Drum Kit]()
+- Day 1: [JavaScript Drum Kit](https://lenafaure.github.io/-120DaysBetterDev---JS30/01%20-%20JavaScript%20Drum%20Kit/)
