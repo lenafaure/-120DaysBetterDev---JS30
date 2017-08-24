@@ -7,3 +7,5 @@
 - Day 2: [CSS + JS Clock](https://lenafaure.github.io/-120DaysBetterDev---JS30/02%20-%20JS%20and%20CSS%20Clock/)
 
 - Day 3: [Playing with CSS variables and JS](https://lenafaure.github.io/-120DaysBetterDev---JS30/03%20-%20CSS%20Variables/)
+
+- Day 4: [Array Cardio Day 1](https://lenafaure.github.io/-120DaysBetterDev---JS30/04%20-%20Array%20Cardio%20Day%201/)
