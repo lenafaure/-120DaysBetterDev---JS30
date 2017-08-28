@@ -13,3 +13,5 @@
 - Day 5: [Flex Panel Gallery](https://lenafaure.github.io/-120DaysBetterDev---JS30/05%20-%20Flex%20Panel%20Gallery/)
 
 - Day 6: [Array Cardio Day 2](https://lenafaure.github.io/-120DaysBetterDev---JS30/07%20-%20Array%20Cardio%20Day%202/)
+
+- Day 7: [Ajax TypeAhead](https://lenafaure.github.io/-120DaysBetterDev---JS30/06%20-%20Type%20Ahead/)
