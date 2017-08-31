@@ -19,3 +19,5 @@
 - Day 8: [Fun with HTML5 Canvas](https://lenafaure.github.io/-120DaysBetterDev---JS30/08%20-%20Fun%20with%20HTML5%20Canvas/)
 
 - Day 9: [Dev Tools Domination](https://lenafaure.github.io/-120DaysBetterDev---JS30/09%20-%20Dev%20Tools%20Domination/)
+
+- [Day 10](https://lenafaure.github.io/-120DaysBetterDev---JS30/12%20-%20Key%20Sequence%20Detection/)
