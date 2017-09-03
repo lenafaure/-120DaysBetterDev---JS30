@@ -21,3 +21,5 @@
 - Day 9: [Dev Tools Domination](https://lenafaure.github.io/-120DaysBetterDev---JS30/09%20-%20Dev%20Tools%20Domination/)
 
 - Day 10: [Key Sequence Detection](https://lenafaure.github.io/-120DaysBetterDev---JS30/12%20-%20Key%20Sequence%20Detection/)
+
+- Day 11: [Reference vs Copy](https://lenafaure.github.io/-120DaysBetterDev---JS30/14%20-%20JavaScript%20References%20VS%20Copying/)
