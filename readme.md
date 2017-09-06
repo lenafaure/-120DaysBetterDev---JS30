@@ -23,3 +23,5 @@
 - Day 10: [Key Sequence Detection](https://lenafaure.github.io/-120DaysBetterDev---JS30/12%20-%20Key%20Sequence%20Detection/)
 
 - Day 11: [Reference vs Copy](https://lenafaure.github.io/-120DaysBetterDev---JS30/14%20-%20JavaScript%20References%20VS%20Copying/)
+
+- Day 12: [Event Capture, Propagation and Once](https://lenafaure.github.io/-120DaysBetterDev---JS30/25%20-%20Event%20Capture%2C%20Propagation%2C%20Bubbling%20and%20Once/)
