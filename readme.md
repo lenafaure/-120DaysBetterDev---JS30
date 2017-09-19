@@ -27,3 +27,5 @@
 - Day 12: [Event Capture, Propagation and Once](https://lenafaure.github.io/-120DaysBetterDev---JS30/25%20-%20Event%20Capture%2C%20Propagation%2C%20Bubbling%20and%20Once/)
 
 - Day 13: [Hold Shift and Check Boxes](https://lenafaure.github.io/-120DaysBetterDev---JS30/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/)
+
+- Day 14: [Follow Along Links Highlighter](https://lenafaure.github.io/-120DaysBetterDev---JS30/22%20-%20Follow%20Along%20Link%20Highlighter/)
