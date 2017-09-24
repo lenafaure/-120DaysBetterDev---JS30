@@ -29,3 +29,5 @@
 - Day 13: [Hold Shift and Check Boxes](https://lenafaure.github.io/-120DaysBetterDev---JS30/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes/)
 
 - Day 14: [Follow Along Links Highlighter](https://lenafaure.github.io/-120DaysBetterDev---JS30/22%20-%20Follow%20Along%20Link%20Highlighter/)
+
+- Day 15: [LocalStorage end Event Delegation](https://lenafaure.github.io/-120DaysBetterDev---JS30/15%20-%20LocalStorage/)
