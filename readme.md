@@ -30,4 +30,4 @@
 
 - Day 14: [Follow Along Links Highlighter](https://lenafaure.github.io/-120DaysBetterDev---JS30/22%20-%20Follow%20Along%20Link%20Highlighter/)
 
-- Day 15: [LocalStorage end Event Delegation](https://lenafaure.github.io/-120DaysBetterDev---JS30/15%20-%20LocalStorage/)
+- Day 15: [LocalStorage and Event Delegation](https://lenafaure.github.io/-120DaysBetterDev---JS30/15%20-%20LocalStorage/)
